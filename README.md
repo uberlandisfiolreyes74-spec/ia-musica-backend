@@ -1,4 +1,4 @@
-# ia-musica-backend
+ uberlandisfiolreyes74-spec/ia-musica-backend
 
 Servidor mínimo listo para desplegar en Render (u otro proveedor) con dos endpoints:
 - POST /musica-instrumental  -> genera música instrumental
